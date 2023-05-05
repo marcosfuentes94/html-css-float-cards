@@ -1,0 +1,20 @@
+/* 
+    RESET
+ */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* 
+    GENERAL
+ */
+ *{
+    font-family: 'Fredoka', sans-serif;;
+ }
+ .pink-text{
+    color: #E53170;
+    text-align: center;
+    margin-top: 20px;
+ }
+ 
