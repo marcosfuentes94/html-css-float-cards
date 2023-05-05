@@ -35,7 +35,8 @@ img{
 }
 
 .columns{
-    float: left;
+
+    float: right;
     background-color: #0F0E17;
     color: #F6F5F7;
 }
@@ -47,5 +48,22 @@ img{
 }
 h4{
     font-size: 1.2em;
+}
+.profile{
+    background-color: #0F0E17;
+    color: #FEFBF7;
+    width: 300px;
+    height: 110px;
+    line-height: 180%;
+    padding-top: 8px;
+    margin-left: 15%;
+    display: inline;
+    float: left;
+}
+a{
+    color: #1DA5E6;
+}
+.text-profile{
+    float: right;
 }
 
