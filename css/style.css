@@ -16,5 +16,36 @@
     color: #E53170;
     text-align: center;
     margin-top: 20px;
+    margin-bottom: 40px;
  }
- 
+ .intro{
+    text-align: center;
+    line-height: 16px;
+    height: 100px;
+    width: auto;
+    
+}
+img{
+    height: 100px;
+}
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.columns{
+    float: left;
+    background-color: #0F0E17;
+    color: #F6F5F7;
+}
+.single-column{
+    text-align: center;
+    width: calc((100% / 3 ));
+    margin: 0 100px;
+
+}
+h4{
+    font-size: 1.2em;
+}
+
